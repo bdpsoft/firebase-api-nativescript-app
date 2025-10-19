@@ -21,7 +21,7 @@
   "devDependencies": {
     "@nativescript/android": "^8.5.0",
     "@nativescript/ios": "^8.5.0",
-    "@nativescript/types": "^8.5.0",
+    "@nativescript/types": "^8.9.1",
     "@nativescript/webpack": "^5.0.0",
     "@storybook/addon-docs": "^9.1.12",
     "@storybook/html-vite": "^9.1.12",

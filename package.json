@@ -16,7 +16,7 @@
     "@nativescript/core": "^8.5.0",
     "@nativescript/firebase-auth": "^3.1.0",
     "@nativescript/firebase-core": "^3.1.0",
-    "firebase": "^10.5.0"
+    "firebase": "^11.10.0"
   },
   "devDependencies": {
     "@nativescript/android": "^8.5.0",
